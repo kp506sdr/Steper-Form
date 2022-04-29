@@ -1,0 +1,11 @@
+.step2-main-div {
+  margin: 20px;
+}
+.step2-btn-div {
+  display: flex;
+  margin-left: 40%;
+  padding: 20px;
+}
+.step2-btn-div > button {
+  margin: 10px;
+}

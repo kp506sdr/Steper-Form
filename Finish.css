@@ -1,0 +1,19 @@
+.finished-main-div {
+  height: 90vh;
+  background-color: white;
+}
+.finish-div2 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.success {
+  color: black;
+  font-size: 4rem;
+  font-weight: bold;
+}
+.signed {
+  color: #4f46e5;
+  font-size: 4rem;
+  font-weight: bold;
+}

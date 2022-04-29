@@ -1,0 +1,15 @@
+.step1-maindiv {
+  width: 50%;
+  padding: 20px;
+}
+.form-div {
+  display: flex;
+  justify-content: space-between;
+}
+.address-div {
+  display: flex;
+  justify-content: space-between;
+}
+.my-btn-class {
+  margin-left: 45%;
+}

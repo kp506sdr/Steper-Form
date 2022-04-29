@@ -1,0 +1,16 @@
+.steper-main-div {
+  display: flex;
+  justify-content: space-around;
+}
+.hide {
+  display: none;
+}
+.d1 {
+  color: #4f46e5;
+}
+.d2 {
+  color: #4f46e5;
+}
+.d3 {
+  color: #4f46e5;
+}
